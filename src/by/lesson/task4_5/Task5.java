@@ -21,7 +21,6 @@ public class Task5 {
             }
             i = i + 1;
         }
-
         System.out.println("Максимальное число: " + max);
         System.out.println("Минимальное число: " + min);
     }

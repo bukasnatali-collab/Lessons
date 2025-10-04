@@ -12,6 +12,7 @@ public class Task2 {
         do {
             System.out.print(number + " ");
             number = number * 2;
-        } while (number <= 512);
+        }
+        while (number <= 512);
     }
 }

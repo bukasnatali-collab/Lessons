@@ -10,6 +10,7 @@ public class Task1 {
         do {
             System.out.print(number + " ");
             number += 7;
-        } while (number <= 98);
+        }
+        while (number <= 98);
     }
 }

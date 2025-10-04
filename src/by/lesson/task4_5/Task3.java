@@ -12,7 +12,6 @@ public class Task3 {
             sum = sum + i;
             i = i + 1;
         }
-
         System.out.println("Сумма первых 10 чисел: " + sum);
     }
 }

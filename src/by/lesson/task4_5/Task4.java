@@ -7,7 +7,6 @@ public class Task4 {
         int number = 100;
 
         while (number >= 1) {
-
             switch (number) {
                 case 1:
                     System.out.print(number);
@@ -16,7 +15,6 @@ public class Task4 {
                     System.out.print(number + ", ");
                     break;
             }
-
             number = number - 1;
         }
     }
